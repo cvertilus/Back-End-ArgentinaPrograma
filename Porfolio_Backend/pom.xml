@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.Portfolio</groupId>
-	<artifactId>Porfolio_Backend</artifactId>
+	<artifactId>Portfolio_Backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Porfolio_Backend</name>
 	<description>Demo project for Spring Boot</description>
